@@ -1,4 +1,4 @@
-# Laporan Progres 2 Tugas Besar Pemograman Berbasis Web
+# Laporan Tugas Besar Pemograman Berbasis Web
 
 ## Anggota : 
 ## 1. Ramadhani Prasetyo 4522210009
